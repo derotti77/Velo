@@ -42,6 +42,7 @@ Velo only works with an **unlocked scooter** . Unlocking is done via **ST-Link**
 | Model | Status |
 | --- | --- |
 | Ninebot **Max G3** | Tested |
+| Ninebot **ZT3 Pro** | Tested |
 
 > **On Android?** Use [**Veylance**](https://github.com/SchattenWolf2008/veylance).
 
