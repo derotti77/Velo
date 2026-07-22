@@ -71,7 +71,7 @@ Shortcut / Action Button
 In the Shortcuts app, add the “Apply Speed” action.
 
 * Enter your desired Speed (km/h), or leave the field empty to use the speed saved in the app.
-##❗❗Known issue: The speed input in the shortcut is currently not working. For now, set the speed to 22 km/h in the app before running the shortcut.❗❗
+* ❗❗Known issue: The speed input in the shortcut is currently not working. For now, set the speed to 22 km/h in the app before running the shortcut.❗❗
 * Assign the shortcut to your Action Button to apply the speed without opening the app.
 
 ## Disclaimer
