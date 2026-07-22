@@ -66,11 +66,13 @@ Since the app is not on the App Store, you install it by **sideloading** — sig
 2. **Select your scooter** — the serial number is usually filled in automatically from the BLE name.
 3. **Pair once** — briefly press the power button on the scooter (Velo vibrates as a cue). Button-free after that.
 
-## Shortcut / Action Button
+Shortcut / Action Button
 
-In the **Shortcuts** app, add the **"Apply speed"** action (and enter your value in the **Speed (km/h)**
-field (leave empty to use the value saved in the app) <span style="color: red"> THIS DOSENT WORK RIGHT NOW! BE SURE TO SET THE SPEED TO 22km/h IN THE APP)<span>. Assign the shortcut to the **Action Button** to set
-the speed without opening the app.
+In the Shortcuts app, add the “Apply Speed” action.
+
+* Enter your desired Speed (km/h), or leave the field empty to use the speed saved in the app.
+#❗❗Known issue: The speed input in the shortcut is currently not working. For now, set the speed to 22 km/h in the app before running the shortcut.❗❗
+* Assign the shortcut to your Action Button to apply the speed without opening the app.
 
 ## Disclaimer
 
