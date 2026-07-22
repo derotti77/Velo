@@ -43,6 +43,7 @@ Velo only works with an **unlocked scooter** . Unlocking is done via **ST-Link**
 | --- | --- |
 | Ninebot **Max G3** | Tested |
 | Ninebot **ZT3 Pro** | Tested |
+| Ninebot **F3/F3 Pro** | Tested |
 
 > **On Android?** Use [**Veylance**](https://github.com/SchattenWolf2008/veylance).
 
@@ -67,8 +68,8 @@ Since the app is not on the App Store, you install it by **sideloading** — sig
 
 ## Shortcut / Action Button
 
-In the **Shortcuts** app, add the **"Apply speed"** action and enter your value in the **Speed (km/h)**
-field (leave empty to use the value saved in the app). Assign the shortcut to the **Action Button** to set
+In the **Shortcuts** app, add the **"Apply speed"** action (and enter your value in the **Speed (km/h)**
+field (leave empty to use the value saved in the app) <span style="color: red"> THIS DOSENT WORK RIGHT NOW! BE SURE TO SET THE SPEED TO 22km/h IN THE APP)<span>. Assign the shortcut to the **Action Button** to set
 the speed without opening the app.
 
 ## Disclaimer
