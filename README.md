@@ -51,7 +51,7 @@ Velo only works with an **unlocked scooter** . Unlocking is done via **ST-Link**
 Since the app is not on the App Store, you install it by **sideloading** — signing it with **your own
 (free) Apple ID**:
 
-1. Download the latest **`Velo-x.x.ipa`** from the [**This Links**](https://api.velo.dev.sga.network/download/latest)).
+1. Download the latest **`Velo-x.x.ipa`** from the [**This Link**](https://api.velo.dev.sga.network/download/latest)).
 2. On your Mac/PC, install **[Sideloadly](https://sideloadly.io)** or **[AltStore](https://altstore.io)**.
 3. Connect your iPhone via cable, drag the `.ipa` into Sideloadly, sign it with your Apple ID and install.
 4. On the iPhone, trust the developer profile under *Settings > General > VPN & Device Management*.
